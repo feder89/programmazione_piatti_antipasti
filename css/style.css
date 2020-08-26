@@ -1,0 +1,43 @@
+.space{
+	font-size: 35px;
+	border-radius: 5px;
+	font-weight: 600;
+}
+.red{
+	color: white;
+	background-color: red;	
+}
+
+.blue{
+	color: white;
+	background-color: blue;	
+}
+.yellow{
+	color: black;
+	background-color: yellow;	
+}
+.gray{
+	color: black;
+	background-color: gainsboro;	
+}
+.green{
+	color: white;
+	background-color: green;	
+}
+.purple{
+	color: white;
+	background-color: #493469;	
+}
+.lightblue{
+	color: black;
+	background-color: #b6ddf0;	
+}
+
+.combine{
+	color: white;
+	background-color: black;
+}
+.gluten-free{
+	color: black;
+	background-color: white;
+}
