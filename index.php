@@ -22,21 +22,21 @@
   <div class="container-fluid">
     <div class="row text-center">
       <div class="col text-justify" style="border-right: 1px solid black;">
-        <h2>ANTIPASTI</h3>
+        <h2>DOLCI</h3>
       </div>
       <div class="col text-justify" style="border-left: 1px solid black;">
-        <h2>DOLCI</h3>
+        <h2>ANTIPASTI</h3>
       </div>
       <div class="col-12" id="content">
       <div class="row text-justify my-1 space red" id="in-corso">
         <div class="col-12 combine" id="combine-incorso"></div>
         <div class="col-6" id="dolce-incorso"></div>
-        <div class="col-6" id="primo-incorso"></div>
+        <div class="col-6" id="antipasto-incorso"></div>
       </div>
       <div class="row text-justify my-1 space blue" id="next">
         <div class="col-12 combine" id="combine-next"></div>
         <div class="col-6" id="dolce-next"></div>
-        <div class="col-6" id="primo-next"></div></div>
+        <div class="col-6" id="antipasto-next"></div></div>
     </div>
     </div>
     
